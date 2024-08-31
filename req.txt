@@ -1,0 +1,7 @@
+numpy==1.26.4
+torch --index-url https://download.pytorch.org/whl/cu121
+torchvision --index-url https://download.pytorch.org/whl/cu121
+transformers
+aiogram==3.*
+python-dotenv
+safetensors
